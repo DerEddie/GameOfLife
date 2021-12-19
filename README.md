@@ -8,4 +8,4 @@ The Grid doesnt have edges. Instead the most right position is directly connecte
 Visualisation with Matplotlib
 ![gol](https://user-images.githubusercontent.com/29587190/141703528-34898a12-32a2-4dc7-809d-46f049b32e3b.gif)
 
-
+https://youtu.be/xP5-iIeKXE8
