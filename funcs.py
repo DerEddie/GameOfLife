@@ -30,17 +30,12 @@ def performIter(b):
             else:
                 if numN == 3:
                     bcopy[row,col] = 1
-
     return bcopy
-
 
 def countNeighbors(b, row, col):
     # n = 2 oder n = 3 -> Zelle bleibt am Leben
     # n > 3 oder n < 2 -> Zelle stirbvt
     # wenn leer und n = 3 Zelle wird geboren
-
-
-
 
 
     ADJACENTS = {(-1, 1), (0, 1), (1, 1), (-1, 0),
@@ -56,14 +51,7 @@ def countNeighbors(b, row, col):
         if row==0 and col == 0:
             print(nr,nc, v)
         sum += v
-    return sum
-
-
-    
-        
-        
-        
-        
+    return sum   
 
 
 if __name__ == "__main__":
